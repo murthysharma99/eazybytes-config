@@ -1,8 +1,8 @@
 build:
-  version: "6.0"
+  version: "7.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook new 1 APIs "
+  message: "Welcome to EazyBank accounts related webhook new 2 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
